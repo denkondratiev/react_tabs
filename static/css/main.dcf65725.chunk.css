@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.tabs{max-width:600px;margin:0 auto}.tabs__menu{display:flex;padding:0;margin:0;list-style-type:none;border-bottom:1px solid #ccc}.tabs__text{font-size:18px}.tabs__button{position:relative;width:150px;padding:10px;margin-right:2px;border:none;border-radius:5px 5px 0 0;cursor:pointer;background-color:#fff;color:#5388c5;font-weight:700;outline-color:#ccc}.tabs__button--active{border:1px solid #ccc;border-bottom:none;color:inherit;bottom:-1px}
+/*# sourceMappingURL=main.dcf65725.chunk.css.map */
